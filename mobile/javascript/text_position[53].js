@@ -1,0 +1,1 @@
+﻿positionForPages[53]={page:53,positions:[{word:"ВыПУскники —   ",left:0.238268,top:0.189004,width:0.632578,height:0.053255},{word:"наша гоРдосТь",left:0.203830,top:0.239804,width:0.586444,height:0.053255}]};
